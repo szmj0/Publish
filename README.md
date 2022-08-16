@@ -178,7 +178,7 @@ PWA的测试说明：
 https://github.com/szmj0/update/blob/master/extras/<p>
 
 
-![N|Solid](https://github.comSzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
+![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 五、其它“神州明见”小工具推荐 
 ### （一）二维码小助手
