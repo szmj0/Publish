@@ -1,4 +1,4 @@
-![N|Solid](https://github.com/szmj0/update/raw/master/extras/Icon-256.jpg)
+![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/Icon-256.jpg)
 # 神州明见官网及固定二维码
   
 本页固定网址: https://git.io/szzd  
