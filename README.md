@@ -1,4 +1,4 @@
-![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/Icon-256.jpg)
+![N|Solid](https://github.com/szmj0/update/raw/master/extras/Icon-256.jpg)
 # 神州明见官网及固定二维码
   
 本页固定网址: https://git.io/szzd  
@@ -17,7 +17,7 @@ https://git.io/szzd
 
 ■ 授予后摄像头权限，扫描二维码
 
-![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
+![N|Solid](https://github.com/szmj0/update/raw/master/extras/sjmj-fg.jpg)
 
 # 神州明见（SzzdMingjian）
 
@@ -32,19 +32,19 @@ https://git.io/szzd
 #### “神州明见”包括安卓手机版、电视机顶盒版、html WEB网页版（html网页版适合于苹果等所有系统）,共3个版本。
 
 #### 视频介绍: 
-![N|Solid](https://github.com/SzzdOgate/update/blob/master/extras/v%20(1).png)
+![N|Solid](https://github.com/szmj0/update/blob/master/extras/v%20(1).png)
 
-![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
+![N|Solid](https://github.com/szmj0/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 二、“神州明见”程序下载
 ### 目前最新的版本在这里（220220527再修改）（请翻墙访问）：
 #### 神州明見6.2
-https://github.com/SzzdOgate/update/blob/master/extras/szmj_v6.2.2022052701.apk   
+https://github.com/szmj0/update/blob/master/extras/szmj_v6.2.2022052701.apk   
 #### sha512
 cb2e57cb8e5458a5a2481d491219e2512e13fe679fa1be97c51b68dc6ee2453a416a56669027251c38f75ab0a82782e814d240f088e0b2dbb36433f48ab2f233
 
 #### 神州明見4.2tv
-https://github.com/SzzdOgate/update/blob/master/extras/szmjtv_v4.2.2022052701.apk  
+https://github.com/szmj0/update/blob/master/extras/szmjtv_v4.2.2022052701.apk  
 #### sha512
 7dc7cbe88990e427d55e903806c6bf86d0cb032d8f32ac32d2ca83abcb4c6058f1c03c5c46934c01f104b90ed13f91d58f8cfe0b6537bcb6bf77be20e98d1b94
 
@@ -57,26 +57,26 @@ http://www.szzd.org/ZZydQ (此网址需要翻墙下载) https://j.mp/szmjtv （�
 
 ### 之前的版本
 
-#### 神州明見5.7 https://github.com/SzzdOgate/update/blob/master/extras/szmj_v5.7.2022022001.apk 
+#### 神州明見5.7 https://github.com/szmj0/update/blob/master/extras/szmj_v5.7.2022022001.apk 
 #### sha512 
 7bea9db63b01eada91e35763c1fb0707956b732c7e29f1bd7887819d766e80d270a9c685cf89cc6f8fcff4d9a5bffe8e4678f1f429d8cb7fce6ee9e6f0283a67 
 
-#### 神州明見3.6tv https://github.com/SzzdOgate/update/blob/master/extras/szmjtv_v3.6.2022022001.apk 
+#### 神州明見3.6tv https://github.com/szmj0/update/blob/master/extras/szmjtv_v3.6.2022022001.apk 
 #### sha512 
 4b2f6647349944ee37182f1b508a33834054febef698d61c41684dc94aab1ccfd18487bc0c61b93912dc5b1b4b843ced79b228ee81c6a35693c89baef85ef48d 
 
 #### ■经典稳定版 SzzdOgate V4.2.2019101901 for 安卓4.0+（安卓手机版）：
-https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk
+https://raw.githubusercontent.com/szmj0/update/master/extras/SzzdOgate.apk
 
 #### ■安卓v4.2经典稳定版改包名下载网址：
 http://www.szzd.org/FYMXJ (此网址需要翻墙下载)
 
 安卓V4.2经典稳定版改包名扫码下载(打不开可多扫几次，或隔一段时间再试）：
 
-![N|Solid](https://github.com/SzzdOgate/update/blob/master/extras/v.png)
+![N|Solid](https://github.com/szmj0/update/blob/master/extras/v.png)
 
 #### ■经典稳定版 SzzdOgate TV V2.0.2019102301 for 安卓4.1+（电视机顶盒版）： 
-https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgateTV.apk
+https://raw.githubusercontent.com/szmj0/update/master/extras/SzzdOgateTV.apk
 
 #### 3.SZMJ WEB 
 http://www.szzd.org/ kvAU4 
@@ -86,9 +86,9 @@ http://www.szzd.org/ kvAU4
 #### 二维码:
 https://j.mp/szmjweb
 
- ![N|Solid](https://github.com/SzzdOgate/update/blob/master/extras/canvas1.png)         
+ ![N|Solid](https://github.com/szmj0/update/blob/master/extras/canvas1.png)         
 
-![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
+![N|Solid](https://github.com/szmj0/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 三、“神州明见”使用方法
 ### “神州明见”包括安卓手机版、电视机顶盒版、html WEB网页版，3个版本，是基于集浏览、保存、截屏和分享的工具集合。
@@ -170,15 +170,15 @@ PWA的测试说明：
 
 ![N|Solid](https://camo.githubusercontent.com/fe565c3a654a580a8670569cd315a9c4d3c6e3ce/687474703a2f2f7777772e737a7a642e6f72672f762e7068703f636f64653d35613037393438346639356437623936386432633538386638366237613766643932326264333634633931303766653562663166633830343235383862616564333064356437623762663230633164323536656137383033383061386166)
 
-![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
+![N|Solid](https://github.com/szmj0/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 四、“神州明见”更新说明 
 
 ### 所有版本都可以在这里查到：
-https://github.com/SzzdOgate/update/blob/master/extras/<p>
+https://github.com/szmj0/update/blob/master/extras/<p>
 
 
-![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
+![N|Solid](https://github.com/szmj0/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 五、其它“神州明见”小工具推荐 
 ### （一）二维码小助手
@@ -186,7 +186,7 @@ https://github.com/SzzdOgate/update/blob/master/extras/<p>
   
 #### 1.“二维码小助手”下载地址
 2022年07月2.18版本
-https://github.com/SzzdOgate/update/blob/master/extras/二维码助手/QrCode2.18_20220731.zip
+https://github.com/szmj0/update/blob/master/extras/二维码助手/QrCode2.18_20220731.zip
 
 
 #### 2.“二维码小助手”SHA512校验码  
@@ -229,7 +229,7 @@ E、恢复了【神州接口】---【获取内容】---【长效1】
 ### （二）专用的包名修改器 RepackageTool
 #### 1.“包名修改器”下载地址
 RepackageTool【2021-02】
-https://raw.githubusercontent.com/SzzdOgate/update/master/extras/包名修改器/ApkRepackager.zip 
+https://raw.githubusercontent.com/szmj0/update/master/extras/包名修改器/ApkRepackager.zip 
 #### 2.“包名修改器”程序功能
 
 中共的封锁和洗脑不止体现在网络上，而是体现在各个角落，包括手机和电视机顶盒等硬件设施。所以大陆出厂的手机或电视机顶盒，可能存在无法安装“神州明见”的情况。“包名修改器”是解决这种情况的一个有效方法。
@@ -240,7 +240,7 @@ https://raw.githubusercontent.com/SzzdOgate/update/master/extras/包名修改器
 
 #### 3.“包名修改器”教程下载地址
 
-https://github.com/SzzdOgate/update/blob/master/extras/包名修改器/改包教程-2021020401.pdf
+https://github.com/szmj0/update/blob/master/extras/包名修改器/改包教程-2021020401.pdf
 
 
-![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
+![N|Solid](https://github.com/szmj0/update/raw/master/extras/sjmj-fg.jpg)
