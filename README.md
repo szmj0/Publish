@@ -17,7 +17,7 @@ https://git.io/szzd
 
 ■ 授予后摄像头权限，扫描二维码
 
-![N|Solid](https://github.com/szmj0/update/raw/master/extras/sjmj-fg.jpg)
+![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
 # 神州明见（SzzdMingjian）
 
@@ -32,9 +32,9 @@ https://git.io/szzd
 #### “神州明见”包括安卓手机版、电视机顶盒版、html WEB网页版（html网页版适合于苹果等所有系统）,共3个版本。
 
 #### 视频介绍: 
-![N|Solid](https://github.com/szmj0/update/blob/master/extras/v%20(1).png)
+![N|Solid](https://github.com/SzzdOgate/update/blob/master/extras/v%20(1).png)
 
-![N|Solid](https://github.com/szmj0/update/raw/master/extras/sjmj-fg.jpg)
+![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 二、“神州明见”程序下载
 ### 目前最新的版本在这里（220220527再修改）（请翻墙访问）：
@@ -73,7 +73,7 @@ http://www.szzd.org/FYMXJ (此网址需要翻墙下载)
 
 安卓V4.2经典稳定版改包名扫码下载(打不开可多扫几次，或隔一段时间再试）：
 
-![N|Solid](https://github.com/szmj0/update/blob/master/extras/v.png)
+![N|Solid](https://github.com/SzzdOgate/update/blob/master/extras/v.png)
 
 #### ■经典稳定版 SzzdOgate TV V2.0.2019102301 for 安卓4.1+（电视机顶盒版）： 
 https://raw.githubusercontent.com/szmj0/update/master/extras/SzzdOgateTV.apk
@@ -86,9 +86,9 @@ http://www.szzd.org/ kvAU4
 #### 二维码:
 https://j.mp/szmjweb
 
- ![N|Solid](https://github.com/szmj0/update/blob/master/extras/canvas1.png)         
+ ![N|Solid](https://github.com/SzzdOgate/update/blob/master/extras/canvas1.png)         
 
-![N|Solid](https://github.com/szmj0/update/raw/master/extras/sjmj-fg.jpg)
+![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 三、“神州明见”使用方法
 ### “神州明见”包括安卓手机版、电视机顶盒版、html WEB网页版，3个版本，是基于集浏览、保存、截屏和分享的工具集合。
@@ -170,7 +170,7 @@ PWA的测试说明：
 
 ![N|Solid](https://camo.githubusercontent.com/fe565c3a654a580a8670569cd315a9c4d3c6e3ce/687474703a2f2f7777772e737a7a642e6f72672f762e7068703f636f64653d35613037393438346639356437623936386432633538386638366237613766643932326264333634633931303766653562663166633830343235383862616564333064356437623762663230633164323536656137383033383061386166)
 
-![N|Solid](https://github.com/szmj0/update/raw/master/extras/sjmj-fg.jpg)
+![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 四、“神州明见”更新说明 
 
@@ -178,7 +178,7 @@ PWA的测试说明：
 https://github.com/szmj0/update/blob/master/extras/<p>
 
 
-![N|Solid](https://github.com/szmj0/update/raw/master/extras/sjmj-fg.jpg)
+![N|Solid](https://github.comSzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
 
 ## 五、其它“神州明见”小工具推荐 
 ### （一）二维码小助手
@@ -243,4 +243,4 @@ https://raw.githubusercontent.com/szmj0/update/master/extras/包名修改器/Apk
 https://github.com/szmj0/update/blob/master/extras/包名修改器/改包教程-2021020401.pdf
 
 
-![N|Solid](https://github.com/szmj0/update/raw/master/extras/sjmj-fg.jpg)
+![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
