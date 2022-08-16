@@ -242,5 +242,8 @@ https://raw.githubusercontent.com/szmj0/update/master/extras/包名修改器/Apk
 
 https://github.com/szmj0/update/blob/master/extras/包名修改器/改包教程-2021020401.pdf
 
+### (三) 二维码助手模板
+https://github.com/szmj0/update/tree/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B
+https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/readme.md
 
 ![N|Solid](https://github.com/SzzdOgate/update/raw/master/extras/sjmj-fg.jpg)
