@@ -79,9 +79,9 @@ http://www.szzd.org/FYMXJ (此网址需要翻墙下载)
 https://raw.githubusercontent.com/szmj0/update/master/extras/SzzdOgateTV.apk
 
 #### 3.SZMJ WEB 
-http://www.szzd.org/ kvAU4 
-
-（html WEB网页版， 把后台自动打包的tar压缩包用rar工具解开，内附使用说明，世人翻墙只需要用到index.html就可以了。后台更新此文件不另外通知 )
+最新定制版：
+https://github.com/szmj0/update/blob/main/extras/SZZD_PC/szmjweb.zip
+SHA512: C062F64FB4248308501C96261783391462C65E3CBE2E4F145DE080AF5F21C77817009B7C53A2BA54E1CF21254C83AC26A9DBA3EA95BCA081A252902441CC9287
 
 #### 二维码:
 https://j.mp/szmjweb
