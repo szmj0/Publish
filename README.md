@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/szmj0/update/master/extras/SzzdOgateTV.apk
 最新定制版：
 https://github.com/szmj0/update/blob/main/extras/SZZD_PC/szmjweb.zip
 
-SHA512: C062F64FB4248308501C96261783391462C65E3CBE2E4F145DE080AF5F21C77817009B7C53A2BA54E1CF21254C83AC26A9DBA3EA95BCA081A252902441CC9287
+SHA512: d63cc3fe957c4ff9804e3a601c7bfd5d125f0385ac8c04e25912e2ac0f7edc698b4b7e53aaf4780c0cacde8c221f9b8688bc3aa9b60a4449de77bff999d8d9ee
 
 #### 二维码:
 https://j.mp/szmjweb
