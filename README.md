@@ -65,19 +65,6 @@ http://www.szzd.org/ZZydQ (此网址需要翻墙下载) https://j.mp/szmjtv （�
 #### sha512 
 4b2f6647349944ee37182f1b508a33834054febef698d61c41684dc94aab1ccfd18487bc0c61b93912dc5b1b4b843ced79b228ee81c6a35693c89baef85ef48d 
 
-#### ■经典稳定版 SzzdOgate V4.2.2019101901 for 安卓4.0+（安卓手机版）：
-https://raw.githubusercontent.com/szmj0/update/master/extras/SzzdOgate.apk
-
-#### ■安卓v4.2经典稳定版改包名下载网址：
-http://www.szzd.org/FYMXJ (此网址需要翻墙下载)
-
-安卓V4.2经典稳定版改包名扫码下载(打不开可多扫几次，或隔一段时间再试）：
-
-![N|Solid](https://github.com/SzzdOgate/update/blob/master/extras/v.png)
-
-#### ■经典稳定版 SzzdOgate TV V2.0.2019102301 for 安卓4.1+（电视机顶盒版）： 
-https://raw.githubusercontent.com/szmj0/update/master/extras/SzzdOgateTV.apk
-
 #### 3.SZMJ WEB 
 
 更多应用举例： https://github.com/szmj0/update/blob/main/extras/SZZD_PC/ 里的详细说明。
