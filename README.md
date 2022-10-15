@@ -76,7 +76,7 @@ SHA512: d63cc3fe957c4ff9804e3a601c7bfd5d125f0385ac8c04e25912e2ac0f7edc698b4b7e53
 #### 二维码:
 https://j.mp/szmjweb
 
- ![N|Solid](https://github.com/SzzdOgate/update/blob/master/extras/canvas1.png)         
+ ![N|Solid](https://github.com/szmj0/update/blob/main/extras/canvas1.png)         
 
 ![N|Solid](https://github.com/szmj0/update/blob/main/extras/sjmj-fg.jpg)
 
