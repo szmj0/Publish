@@ -48,6 +48,8 @@ https://github.com/szmj0/update/blob/master/extras/szmjtv_v4.2.2022052701.apk
 #### sha512
 7dc7cbe88990e427d55e903806c6bf86d0cb032d8f32ac32d2ca83abcb4c6058f1c03c5c46934c01f104b90ed13f91d58f8cfe0b6537bcb6bf77be20e98d1b94
 
+### 之前的版本
+
 #### ■安卓v5.7改包名稳定版下载网址： 
 http://www.szzd.org/i2Ss2 (此网址需要翻墙下载) 
 https://j.mp/szmjapp （短网址）
@@ -55,7 +57,6 @@ https://j.mp/szmjapp （短网址）
 #### ■安卓TV版 v3.6改包名稳定版下载网址：
 http://www.szzd.org/ZZydQ (此网址需要翻墙下载) https://j.mp/szmjtv （短网址）
 
-### 之前的版本
 
 #### 神州明見5.7 https://github.com/szmj0/update/blob/master/extras/szmj_v5.7.2022022001.apk 
 #### sha512 
