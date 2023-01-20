@@ -37,35 +37,17 @@ https://github.com/szmj0/Publish
 ![N|Solid](https://github.com/szmj0/update/blob/main/extras/sjmj-fg.jpg)
 
 ## 二、“神州明见”程序下载
-### 目前最新的版本在这里（220220527再修改）（请翻墙访问）：
+### 目前最新的版本在这里（20230120發布）（请翻墙访问）：
 #### 神州明見6.3
 https://github.com/szmj0/update/blob/master/extras/szmj_v6.3.2022121501.apk   
 #### sha512
-cb2e57cb8e5458a5a2481d491219e2512e13fe679fa1be97c51b68dc6ee2453a416a56669027251c38f75ab0a82782e814d240f088e0b2dbb36433f48ab2f233
+2ebaf4195f9fc350e818fa6f23329f5dcec8d90927e059e1bd3201ee2f3698c2c80b5705f683fd61298777c52dcb1967b74e7af3f61e460c0c09c47371ec419f
 
 #### 神州明見4.4tv
 https://github.com/szmj0/update/blob/main/extras/szmjtv_v4.4.2022121501.apk
 
 #### sha512
 ede6898e5d5624c859f10c8bebd3f5d18b2ce354a751bc3de45be8e701089227e4f0fd6df1cbcf178b5a27c8de98c78bce2f8ab6976058d87cd4b0dba2a38c4d
-
-### 之前的版本
-
-#### ■安卓v5.7改包名稳定版下载网址： 
-http://www.szzd.org/i2Ss2 (此网址需要翻墙下载) 
-https://j.mp/szmjapp （短网址）
-
-#### ■安卓TV版 v3.6改包名稳定版下载网址：
-http://www.szzd.org/ZZydQ (此网址需要翻墙下载) https://j.mp/szmjtv （短网址）
-
-
-#### 神州明見5.7 https://github.com/szmj0/update/blob/master/extras/szmj_v5.7.2022022001.apk 
-#### sha512 
-7bea9db63b01eada91e35763c1fb0707956b732c7e29f1bd7887819d766e80d270a9c685cf89cc6f8fcff4d9a5bffe8e4678f1f429d8cb7fce6ee9e6f0283a67 
-
-#### 神州明見3.6tv https://github.com/szmj0/update/blob/master/extras/szmjtv_v3.6.2022022001.apk 
-#### sha512 
-4b2f6647349944ee37182f1b508a33834054febef698d61c41684dc94aab1ccfd18487bc0c61b93912dc5b1b4b843ced79b228ee81c6a35693c89baef85ef48d 
 
 #### 3.SZMJ WEB 
 
