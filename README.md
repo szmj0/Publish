@@ -55,7 +55,7 @@ ede6898e5d5624c859f10c8bebd3f5d18b2ce354a751bc3de45be8e701089227e4f0fd6df1cbcf17
 
 最新定制版：https://github.com/szmj0/update/blob/main/extras/SZZD_PC/szmjweb.2.0.zip
 
-SHA512: 81f2eb67663b491dcb33dffbfb7b3cd37215f91a293e22628887f9d32e1a0f1d83a996c52383f7ce4ebb6fde94fcbae01be927ca99d4a5f3e4a8c0496eb3eae8
+SHA512: 7d5ee93fa42f4a37fe4ea54276c111f29114193671352717c3b5bb15cdc175c3607a61d2a285ec50a4c3b138cb62b69f73f7687a5159c46aa1a115267a6765e8
 
 #### 二维码:
 https://j.mp/szmjweb
