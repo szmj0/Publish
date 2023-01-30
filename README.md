@@ -158,11 +158,11 @@ https://github.com/szmj0/update/blob/master/extras/<p>
 ### （一）二维码小助手
   
 #### 1.“二维码小助手”下载地址
-2023年01月2.19版本
-https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/QrCode_v2.19_20230115.zip
+2023年01月3.0版本 增加了下载神州明见WEB版的代码
+https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/QrCode_v3.0_20230128.zip
 
 #### 2.“二维码小助手”SHA512校验码  
-5ec3902c705c1b2b74eb3b8045371957fbcf5c61566120f78dd1ceafa1e3d86a3e535f8610c9dd74ef9dbafba834ee0a0682c8227000606cdd76f868d23e57b0
+3764f54e917b17f6f297786cecd778a03004cf0ebd917675fac263dc2a27282152617949530745f8fbbdf29f8a9ab866f4467f31191048b6365eb1ae28910366
   
 #### 3.“二维码小助手”程序功能
 
