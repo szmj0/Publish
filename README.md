@@ -199,6 +199,7 @@ E、恢复了【神州接口】---【获取内容】---【长效1】
 
 
 ### （二）专用的包名修改器 RepackageTool
+#### 注：【OK】（安卓 apk 软件）包名替换工具 1.0也可以改包，请破网查看说明　https://tiandixing.org/viewtopic.php?p=2093273#p2093273
 #### 1.“包名修改器”下载地址
 RepackageTool【2021-02】
 https://raw.githubusercontent.com/szmj0/update/master/extras/包名修改器/ApkRepackager.zip 
