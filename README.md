@@ -40,7 +40,7 @@ https://github.com/szmj0/Publish
 ### 目前最新的版本在这里（20230309發布）（请翻墙访问）：
 
 #### 神州明見6.4
-https://github.com/szmj0/update/blob/master/extras/szmj_v6.4.2023022001.apk
+https://github.com/szmj0/update/blob/main/extras/szmj_v6.4.2023022001.apk
 
 sha512
 8f9da6c7c3994ecd04b55af35313ab198b5cf855295d82eaa6bcb57b02e7d8b9152210dc8b09c98b9f74b04ae1583792c3c4bd3dd36683d981be927173276cb1
