@@ -62,6 +62,11 @@ SHA512: 6b0b0d3f3b1125edfde523d594ad386565b4b842c4e7db7b499e2dab4a4b3576e057cdcd
 #### 二维码:
 https://j.mp/szmjweb
 
+最新定制版： https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/QrCode_v3.1_20230422.zip
+
+sha512
+eff299f6e29061e421699d34788a073dee5f0bebc1131ea5bce0039423bc552d9b44ec1fd27df8526176aeb7fb80c376e8eeb42fd86525eecf90434244fb8649
+
 ![N|Solid](https://github.com/szmj0/update/blob/main/extras/canvas1.png)         
 
 ![N|Solid](https://github.com/szmj0/update/blob/main/extras/sjmj-fg.jpg)
