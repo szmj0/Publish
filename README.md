@@ -62,11 +62,6 @@ SHA512: 6b0b0d3f3b1125edfde523d594ad386565b4b842c4e7db7b499e2dab4a4b3576e057cdcd
 #### 二维码:
 https://j.mp/szmjweb
 
-最新定制版： https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/QrCode_v3.1_20230422.zip
-
-sha512
-eff299f6e29061e421699d34788a073dee5f0bebc1131ea5bce0039423bc552d9b44ec1fd27df8526176aeb7fb80c376e8eeb42fd86525eecf90434244fb8649
-
 ![N|Solid](https://github.com/szmj0/update/blob/main/extras/canvas1.png)         
 
 ![N|Solid](https://github.com/szmj0/update/blob/main/extras/sjmj-fg.jpg)
@@ -165,11 +160,11 @@ https://github.com/szmj0/update/blob/master/extras/<p>
 ### （一）二维码小助手
   
 #### 1.“二维码小助手”下载地址
-2023年01月3.0版本 增加了下载神州明见WEB版的代码
-https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/QrCode_v3.0_20230128.zip
+2023年04月3.1版本 
+https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/QrCode_v3.1_20230422.zip
 
 #### 2.“二维码小助手”SHA512校验码  
-3764f54e917b17f6f297786cecd778a03004cf0ebd917675fac263dc2a27282152617949530745f8fbbdf29f8a9ab866f4467f31191048b6365eb1ae28910366
+eff299f6e29061e421699d34788a073dee5f0bebc1131ea5bce0039423bc552d9b44ec1fd27df8526176aeb7fb80c376e8eeb42fd86525eecf90434244fb8649
   
 #### 3.“二维码小助手”程序功能
 
