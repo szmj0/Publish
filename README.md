@@ -165,7 +165,7 @@ https://github.com/szmj0/update/blob/master/extras/<p>
 https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/QrCode_v3.5_20231101.zip
 
 #### 2.“二维码小助手”SHA512校验码  
-f974c554c6dfecf90768ae55c6eb815693a7c0b9f68b89066cda8a1e813ba088026ac8e85a805aca50cd29528342cd52af3f1c5f2edbacf35b59679b6bec2696
+fa4b3001a672c75b87088d8a337ff88577dd16640a96005178ca4598a7f1c7d79e5a48b9d18af17b741f9ca35b29b5c76008fddcefdda63a8add242ee8548fac
   
 #### 3.“二维码小助手”程序功能
 
