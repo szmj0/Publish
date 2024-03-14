@@ -37,19 +37,19 @@ https://github.com/szmj0/Publish
 ![N|Solid](https://github.com/szmj0/update/blob/main/extras/sjmj-fg.jpg)
 
 ## 二、“神州明见”程序下载
-### 目前最新的版本在这里（20231030發布）（请翻墙访问）：
+### 目前最新的版本在这里（20240306發布）（请翻墙访问）：
 
-#### 神州明见6.8
-https://github.com/szmj0/update/blob/main/extras/szmj_v6.8.2023091301.apk
-
-sha512
-3b42bd72b084f708af682d9ae7409c8d4fa5e7367d0f22dee32ec92157f09ebf1c45a1b0df55a9062981e8c086a26d1dd2a760ac7b986b002ba4f95936673e9d
-
-#### 神州明见TV 6.8
-https://github.com/szmj0/update/blob/main/extras/szmjtv_v6.8.2023091301.apk
+#### 神州明见6.9
+https://github.com/szmj0/update/blob/main/extras/szmj-v6.9.2024010901.apk
 
 sha512
-e5ceb4d30984a3ef34794c3572a3ff2db695dc83845ff8cab97d7554dd43c367b629859fab44e544ad917d07a3545d3b765d19ed1a9d630f6f1610fef5896c1b
+c183793a0fca7bc4fce9da131d61e6ea2e1520f5fba22f138a400ec651f6bca9a2b96df0d8a5ec29019daf6b9166e7145a332d8c81392d5e0f5754559179f4c5
+
+#### 神州明见TV 6.9
+https://github.com/szmj0/update/blob/main/extras/szmjtv-v6.9.2024010901.apk
+
+sha512
+2575c91c24d8a2c45c948a363baa39050fca3b8d157c347f38432f8dfb0d915ef83b9c13837414204854fcaf47491ed35647b90694c95be2e36819aa89a2cbe2
 
 #### 3.SZMJ WEB 
 
