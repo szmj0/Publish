@@ -154,10 +154,16 @@ PWA的测试说明：
 ### 所有版本都可以在这里查到：
 https://github.com/szmj0/update/blob/master/extras/<p>
 
-
 ![N|Solid](https://github.com/szmj0/update/blob/main/extras/sjmj-fg.jpg)
 
-## 五、其它“神州明见”小工具推荐 
+## 五、chromium 瀏覽器
+### 本瀏覽器可直接破網 適用安著手機
+### 下載 
+http://pick.szzd.me/files/ChromePublic.apk
+### sha512
+7fc0013616d518b560f48a973c8aa145311413a2fd73667bc669c0bd0454bc1c747f04e5cdf33bca6b59f6caf0c9c811240d596e71c1ceace444d94713d83ec5
+
+## 六、其它“神州明见”小工具推荐 
 ### （一）二维码小助手
   
 #### 1.“二维码小助手”下载地址
