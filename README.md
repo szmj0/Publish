@@ -157,7 +157,7 @@ https://github.com/szmj0/update/blob/master/extras/<p>
 ![N|Solid](https://github.com/szmj0/update/blob/main/extras/sjmj-fg.jpg)
 
 ## 五、chromium 瀏覽器
-### 本瀏覽器可直接破網 適用安著手機
+### 本瀏覽器可直接破網 適用Android
 ### 下載 
 http://pick.szzd.me/files/ChromePublic.apk
 ### sha512
