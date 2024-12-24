@@ -37,7 +37,7 @@ https://github.com/szmj0/Publish
 ![N|Solid](https://github.com/szmj0/update/blob/main/extras/sjmj-fg.jpg)
 
 ## 二、“神州明见”程序下载
-### 目前最新的版本在这里（20240306發布）（请翻墙访问）：
+### 目前最新的版本在这里（20241223發布）（请翻墙访问）：
 
 #### 神州明见 7.0
 https://github.com/szmj0/update/blob/main/extras/szmj_v7.0.2024110901.apk
