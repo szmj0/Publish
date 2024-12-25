@@ -45,6 +45,9 @@ https://github.com/szmj0/Publish
 sha512
 7fc0013616d518b560f48a973c8aa145311413a2fd73667bc669c0bd0454bc1c747f04e5cdf33bca6b59f6caf0c9c811240d596e71c1ceace444d94713d83ec5
 
+說明:“干净世界大陆Chrome手机版”是神州明见开发的专门用于对常人讲真相的手机版APP，可以传播给常人流畅观看干净世界。对用户友好，非常容易用，用户一看就会，打开后直接翻墙。
+没有门槛的，可以直接推广。只是文件有点大，超过200Ｍ。用户下载需要有耐心。
+
 #### 神州明见 7.0
 https://github.com/szmj0/update/blob/main/extras/szmj_v7.0.2024110901.apk
 
