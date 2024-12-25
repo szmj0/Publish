@@ -29,7 +29,7 @@ https://github.com/szmj0/Publish
 
 #### 截至2024年1月16日，通过突破网络封锁的方法，中国大陆超過4.24亿人，在海外大纪元网站发表退出中共党、团、队的声明。
 
-#### “神州明见”包括安卓手机版、电视机顶盒版、html WEB网页版（html网页版适合于苹果等所有系统）,共3个版本。
+#### “神州明见”包括干净世界大陆Chrome手机版、安卓手机版、电视机顶盒版、html WEB网页版（html网页版适合于苹果等所有系统）,共４个版本。
 
 #### 视频介绍: 
 ![N|Solid](https://github.com/SzzdOgate/update/blob/master/extras/v%20(1).png)
