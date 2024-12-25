@@ -39,7 +39,7 @@ https://github.com/szmj0/Publish
 ## 二、“神州明见”程序下载
 ### 目前最新的版本在这里（20241223發布）（请翻墙访问）：
 
-#### 干净世界大陆Chrome手机版　Ｖ128.0.6613.146
+#### 干净世界大陆Chrome手机版　Ｖ128.0.6613.146 (大小：223Ｍ)
 下载地址：http://pick.szzd.me/files/ChromePublic.apk
 
 sha512
