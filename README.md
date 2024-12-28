@@ -50,13 +50,6 @@ Chrome（也叫google浏览器）是世界上（包括大陆）用户最多的�
 1、浏览普通常人网站时，和正常Chrome浏览器完全一样，不翻墙。
 2、在浏览干净世界、新唐人、大纪元、明慧之窗、正见网等等真相网站时，可以自动翻墙加密浏览。
 
-程序界面如图
-[attachment=0]Chromium_1.PNG[/attachment]
-浏览真相网站自动翻墙的样子
-[attachment=2]Chromium_2.PNG[/attachment]
-浏览普通常人网站不翻墙，当作正常浏览器使用的样子
-[attachment=1]Chromium_3.PNG[/attachment]
-
 “干净世界大陆Chrome手机版”功能和翻墙速度均超过“神州名见app”，翻墙稳定快速，是给常人使用，了解真相的新一代翻墙利器。
 
 #### 神州明见 7.0
