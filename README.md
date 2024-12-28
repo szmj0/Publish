@@ -45,8 +45,19 @@ https://github.com/szmj0/Publish
 sha512
 7fc0013616d518b560f48a973c8aa145311413a2fd73667bc669c0bd0454bc1c747f04e5cdf33bca6b59f6caf0c9c811240d596e71c1ceace444d94713d83ec5
 
-說明:“干净世界大陆Chrome手机版”是神州明见开发的专门用于对常人讲真相的手机版APP，可以传播给常人流畅观看干净世界。对用户友好，非常容易用，用户一看就会，打开后直接翻墙。
-没有门槛的，可以直接推广。只是文件有点大，超过200Ｍ。用户下载需要有耐心。详细介绍请参考教程（制作中）。注意：该APP仅为对常人讲清真相使用，会员不得使用。
+Chrome（也叫google浏览器）是世界上（包括大陆）用户最多的浏览器，由于其安全、快速等优点，深得全世界（包括大陆）使用者的喜爱。
+此程序基于开源的Chrome开发而成，保留Chrome原有的全部功能，额外增加翻墙功能。程序有2个功能：
+1、浏览普通常人网站时，和正常Chrome浏览器完全一样，不翻墙。
+2、在浏览干净世界、新唐人、大纪元、明慧之窗、正见网等等真相网站时，可以自动翻墙加密浏览。
+
+程序界面如图
+[attachment=0]Chromium_1.PNG[/attachment]
+浏览真相网站自动翻墙的样子
+[attachment=2]Chromium_2.PNG[/attachment]
+浏览普通常人网站不翻墙，当作正常浏览器使用的样子
+[attachment=1]Chromium_3.PNG[/attachment]
+
+“干净世界大陆Chrome手机版”功能和翻墙速度均超过“神州名见app”，翻墙稳定快速，是给常人使用，了解真相的新一代翻墙利器。
 
 #### 神州明见 7.0
 https://github.com/szmj0/update/blob/main/extras/szmj_v7.0.2024110901.apk
