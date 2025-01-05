@@ -190,7 +190,7 @@ https://github.com/szmj0/update/blob/master/extras/<p>
 ## 五、chromium 瀏覽器
 ### 本瀏覽器可直接破網 適用Android
 ### 下載 
-http://pick.szzd.me/files/ChromePublic.apk
+https://pick.szzd.me/files/ChromePublic.apk
 ### sha512
 7fc0013616d518b560f48a973c8aa145311413a2fd73667bc669c0bd0454bc1c747f04e5cdf33bca6b59f6caf0c9c811240d596e71c1ceace444d94713d83ec5
 
