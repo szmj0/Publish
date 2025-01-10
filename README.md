@@ -71,13 +71,13 @@ Sha512校验值： 2eaf144225199ed1ae1305788efb068f70669906ca9e33a12d639ba319957
 “干净世界大陆Chrome手机版”功能和翻墙速度均超过“神州名见app”，翻墙稳定快速，是给常人使用，了解真相的新一代翻墙利器。
 
 #### 神州明见 7.0
-https://github.com/szmj0/update/blob/main/extras/szmj_v7.0.2024110901.apk
+https://raw.githubusercontent.com/szmj0/update/refs/heads/main/extras/szmj_v7.0.2024110901.apk
 
 sha512
 1f3066a1ec301cf8fae53120655c3a0feb3c4ce2ea430217f617f4adc80c8fb9c238bff10fbe98c9222907ad95ca688f271cd1edaf34c2c68c30c0fa317fc4d9
 
 #### 神州明见TV 7.0
-https://github.com/szmj0/update/blob/main/extras/szmjtv_v7.0.2024110901.apk
+https://raw.githubusercontent.com/szmj0/update/refs/heads/main/extras/szmjtv_v7.0.2024110901.apk
 
 sha512
 041d91cc30ecfc6394813928b1bbff63ee0d56e16ba2588b759f0ee4041c88ce79f440e501da5b85adeb1d6f5d07ebc181aede154429fe7702e4e5df000509ba
