@@ -39,11 +39,11 @@ https://github.com/szmj0/Publish
 ## 二、“神州明见”程序下载
 ### 目前最新的版本在这里（20241223發布）（请翻墙访问）：
 
-#### 干净世界大陆Chrome手机版　Ｖ128.0.6613.146 (大小：223Ｍ)
+#### 干净世界大陆Chrome手机版　Ｖ128.0.6613.146 (大小：223Ｍ) 20250117發布
 下载地址：http://pick.szzd.me/files/ChromePublic.apk
 
 sha512
-7fc0013616d518b560f48a973c8aa145311413a2fd73667bc669c0bd0454bc1c747f04e5cdf33bca6b59f6caf0c9c811240d596e71c1ceace444d94713d83ec5
+fbac7bb54321650960dcfc14e32a0065fee58ac8e4172db8893e91f6771fbfd1b3a5dd742e4ee79bdf51c5d7313fe6ec347fcf505d5e4a93465e900a17296a75
 
 Chrome（也叫google浏览器）是世界上（包括大陆）用户最多的浏览器，由于其安全、快速等优点，深得全世界（包括大陆）使用者的喜爱。
 此程序基于开源的Chrome开发而成，保留Chrome原有的全部功能，额外增加翻墙功能。程序有2个功能：
@@ -199,10 +199,10 @@ fbac7bb54321650960dcfc14e32a0065fee58ac8e4172db8893e91f6771fbfd1b3a5dd742e4ee79b
   
 #### 1.“二维码小助手”下载地址
 2025年1月3.9版本 
-https://pick.szzd.me/files/QrCode/QrCode_v3.9_20250116.zip
+https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/QrCode_v3.9_20250117.zip
 
 #### 2.“二维码小助手”SHA512校验码  
-4b7cd25533bd2cf95eb457bdcbb0d167fbd1f1cb2e71abb3b2641e45ef8a1d7f854521620806b678856639cf1cbb88dc084c54f2692448f6f8699d90cd5af56d
+5a3f2350536b8334fdbbf17aba08021c7295729caf976d0da6d16151b1c25938cb3c0eec7fe8c1b9fd3d2fac328906f7613d6060c05f7e03e4f01a2985127b87
   
 #### 3.“二维码小助手”程序功能
 
