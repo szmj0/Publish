@@ -243,6 +243,10 @@ D、网站列表界面增加了【选择包含网址的文件】下拉框，可�
 E、恢复了【神州接口】---【获取内容】---【长效1】
 神州明见后台加强了【长效1】的维护，增强了破网能力和稳定性。
 
+#### 3.二维码助手v4.3简明操作教程
+
+https://github.com/szmj0/update/blob/main/extras/二维码助手/二维码助手简明操作教程.pdf
+https://github.com/szmj0/update/blob/main/extras/二维码助手/二维码助手简明操作教程.docx
 
 ### （二）专用的包名修改器 RepackageTool
 注：【OK】（安卓 apk 软件）包名替换工具 1.0也可以改包，请破网查看说明　https://tiandixing.org/viewtopic.php?p=2093273#p2093273
