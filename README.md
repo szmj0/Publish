@@ -40,10 +40,10 @@ https://github.com/szmj0/Publish
 ### 目前最新的版本在这里（20241223發布）（请翻墙访问）：
 
 #### 干净世界大陆Chrome手机版　Ｖ128.0.6613.146 (大小：223Ｍ) 20250117發布
-下载地址：http://pick.szzd.me/files/ChromePublic.apk
+下载地址：https://pick.szzd.me/files/ChromePublic.apk
 
 sha512
-fbac7bb54321650960dcfc14e32a0065fee58ac8e4172db8893e91f6771fbfd1b3a5dd742e4ee79bdf51c5d7313fe6ec347fcf505d5e4a93465e900a17296a75
+0ddb488fe1666f26c4a79640fc42842a465f741775494a12cf4aed0c6e2be00f798b7562e2f248eacc22083bb221ca62f7ca8f0967a420a53794ec5c84a1de29
 
 Chrome（也叫google浏览器）是世界上（包括大陆）用户最多的浏览器，由于其安全、快速等优点，深得全世界（包括大陆）使用者的喜爱。
 此程序基于开源的Chrome开发而成，保留Chrome原有的全部功能，额外增加翻墙功能。程序有2个功能：
