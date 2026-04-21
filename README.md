@@ -205,7 +205,7 @@ fbac7bb54321650960dcfc14e32a0065fee58ac8e4172db8893e91f6771fbfd1b3a5dd742e4ee79b
   
 #### 1.“二维码小助手”下载地址
 2026年04月新 6.2版本 
-https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/QrCode_v6.2_20260421.zip
+https://github.com/szmj0/update/blob/main/extras/%E4%BA%8C%E7%BB%B4%E7%A0%81%E5%8A%A9%E6%89%8B/Qrcode_v6.2_20260421.zip
 
 #### 2.“二维码小助手”SHA512校验码  
 5e2545f42146a2e91382a7b7ed818df025bc2055d65a6df76faad48aac843900538c91145a68e26e7228b2a753eeaa70c147783f82b0f30cf50427f34dacebf2
