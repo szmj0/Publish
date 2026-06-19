@@ -77,10 +77,10 @@ sha512
 0e318e79f9f79f48c0242b109f7d8f751889b8114a5ddfe9c18a211bb5f47214c5e62b4bdfa9514b931a5e74bf09323d33eb2e46b654e632aed828d2cb54ab1f
 
 #### 神州明见TV 7.2
-https://github.com/szmj0/update/blob/main/extras/szmjtv_v7.2.2025121701.apk
+https://github.com/szmj0/update/blob/main/extras/szmjTV-v7.2-2026061904.apk
 
 sha512
-34ec42a4c5f83335572a110288c8dcdfac79b74a978aa1a4ec90d5e5bfb57f9983e6f2cb92a0ff5616cfdf4413bed90afdaed445baf8c8eda674398d174a3390
+798d15fb8d0bff9e97cbdcf0bb8824a12aa7560c102b5628cc1c5012c8e0e8fb7b78e75c640acb31fb295c43dabd96933ea956beea8067d6e0fe1868681ea693
 
 #### 3.SZMJ WEB 
 
